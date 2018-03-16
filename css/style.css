@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css?family=Muli:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i');
+body{
+	font-family: 'Muli', sans-serif;
+	font-size: 14px;
+	color: #000000;
+}
+header{
+	padding: 20px 0px;
+	color: #000;
+}
+.boton{
+	position: relative;
+}	
+.productodescripcion{
+	align-content: center;
+	padding: 100px 0px 0px;
+}
+h2{
+	font-size: 60px;
+	font-weight: 600; 
+	line-height: 60px;
+}
+.descripcion{
+	font-size: 20px;
+	font-weight: 400;
+}
+.buttongris{
+	text-transform: uppercase;
+	color: #000000;
+	border: 2px solid #000;
+	border-radius: 30px;
+	padding: 15px;
+	background-color: #e6e6e6;
+	
+}
+.button{
+	text-transform: uppercase;
+	color: #000000;
+	border: 2px solid #000;
+	border-radius: 30px;
+	padding: 15px;
+}
+.unpacked{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding-top: 10%;
+	
+}
+.buttonnegro{
+	text-transform: uppercase;
+	background-color: #000000;
+	color: #FFFFFF;
+	border: 2px solid #fff;
+	border-radius: 30px;
+	padding: 15px;
+}
+h4{
+	font-weight: 600;
+	color: #363636;
+	
+}
+.mapadelsitio{
+	padding: 40px 0px;
+	background-color: #e6e6e6;
+}
+.copyright{
+	padding:7px 0px 0px;
+	background-color: #e6e6e6;
+	color: #363636;
+}
+h5{
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.disclaimerweb{
+	font-weight: 300;
+	font-size: 12px;
+}
+.fondosections{
+	background-color: #e6e6e6;
+}
+.footerlist{
+	font-weight: 600;
+	text-transform: uppercase;
+}
+.rowbackground {
+	background-color: #363636;
+	color: #FFFFFF;
+	padding: 10px 0px;
+}
+.button2{
+	background-color: transparent;
+	text-transform: uppercase;
+	color: #fff;
+	border: 2px solid #fff;
+	border-radius: 30px;
+	padding: 15px;
+}
+
+#formulariocontacto{
+	padding-bottom: 20px;
+}
+.carousel-caption{
+	padding: 10%;
+}
+.hacer-por-ti{
+	position: relative;
+}
+.info-hacer-por-ti{
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+	text-align: left;
+	color: #fff;
+	padding: 0% 0% 0% 5%;
+}
+.titulofotos{
+	font-size: 40px;
+	font-weight: 600;
+}
+.tituloinicio{
+	font-weight: 700;
+}
+.subtitulo{
+	font-size: 25px;
+	font-weight: 600;
+}
+#map{
+	width: 50%;
+	height: 300px;
+}
+#ubicacion{
+	padding-bottom: 50px;
+}
+.cuadro{
+	background-color: #e6e6e6;
+	text-align: center;
+	padding: 50px 10px 10px;
+}
+#smartphones{
+	padding: 0px 0px 100px;
+}
+#smartphone-para-ti{
+	background-color: #000;
+	
+}
+
+
+.navbar-brand {
+  left:calc(50% - 45px);
+  position: absolute;
+  padding: 11px 0px;
+
+}
+.navbar{
+	background-color: #fff;
+	color: #000;
+}
